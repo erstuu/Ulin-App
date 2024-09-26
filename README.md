@@ -7,4 +7,8 @@ Despite being lightweight in functionality, "Ulin" aims to provide an easy and d
 
 Also this is my first Android App using Kotlin as the Native Programming Language of Android.
 
-Thanks to Dicoding Indonesia as part of the Bangkit Academy led by Google, Tokopedia, Gojek, & Traveloka ! Because of this, I can learn about something new for me.
+Thanks to Dicoding Indonesia as part of the Bangkit Academy led by Google, Tokopedia, Gojek, & Traveloka ! Because of this, I can learn about something new for me.  
+
+# Tech Used
+
+"Ulin" is build 100% with Kotlin programming Language
