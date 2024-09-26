@@ -1,0 +1,82 @@
+<resources>
+    <string name="app_name">Ulin</string>
+    <string name="title">Curug Sawer</string>
+    <string name="location">Sukabumi, Jawa Barat</string>
+    <string name="vacation_of_the_week">Vacations of The Week</string>
+    <string name="search_hint">City or area</string>
+    <string name="recommendation_for_you">Recommendation For You</string>
+    <string name="profile">Profile</string>
+    <string name="rating">4.6</string>
+    <string name="setting">Profile</string>
+    <string name="description">Pantai Ujung Genteng adalah sebuah pantai yang terletak di Sukabumi, Jawa Barat, Indonesia. Pantai ini terkenal dengan pasir putihnya yang indah dan ombak yang cocok untuk berselancar. Selain keindahan alam, Ujung Genteng juga merupakan habitat penyu, di mana pengunjung dapat melihat penyu bertelur di beberapa waktu tertentu. Lokasinya yang cukup terpencil membuat pantai ini masih relatif tenang dan alami, cocok untuk berwisata santai atau menikmati keindahan alam.</string>
+    <string name="overview">Overview</string>
+    <string name="gmap">Look at Google Maps</string>
+    <string name="profile_name">Restu Gede Purnama</string>
+    <string name="profile_description">Mahasiswa Teknik Informatika Semester 5 yang pada saat ini sedang menempuh MSIB di Bangkit dengan Mobile Learning Path\n</string>
+    <string name="profile_email">restumelenoy83@gmail.com</string>
+
+    <string-array name="data_title">
+        <item>Pantai Amanda Ratu</item>
+        <item>Buniayu</item>
+        <item>Curug Cikaso</item>
+        <item>Curug Cimarinjung</item>
+        <item>Curug Sawer</item>
+        <item>Geopark Ciletuh</item>
+        <item>Pantai Palabuhanratu</item>
+        <item>Pondok Halimun</item>
+        <item>Situ Gunung</item>
+        <item>Ujung Genteng</item>
+    </string-array>
+
+    <integer-array name="data_photo">
+        <item>@drawable/patai_amanda_ratu</item>
+        <item>@drawable/buni_ayu</item>
+        <item>@drawable/curug_cikaso</item>
+        <item>@drawable/curug_cimarinjung</item>
+        <item>@drawable/curug_sawer</item>
+        <item>@drawable/geopark_ciletuh</item>
+        <item>@drawable/pelabuhan_ratu</item>
+        <item>@drawable/pondok_halimun</item>
+        <item>@drawable/situ_gunung</item>
+        <item>@drawable/ujung_genteng</item>
+    </integer-array>
+
+    <string-array name="data_location">
+        <item>Ujung Genteng, Sukabumi</item>
+        <item>Nyalindung, Sukabumi</item>
+        <item>Cibitung, Sukabumi</item>
+        <item>Palabuhanratu, Sukabumi</item>
+        <item>Kadudampit, Sukabumi</item>
+        <item>Palabuhanratu, Sukabumi</item>
+        <item>Palabuhanratu, Sukabumi</item>
+        <item>Selabintana, Sukabumi</item>
+        <item>Kadudampit, Sukabumi</item>
+        <item>Ujung Genteng, Sukabumi</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>Pantai Amanda Ratu terletak di Kecamatan Ciracap, Kabupaten Sukabumi, Jawa Barat. Pantai ini dikenal karena keindahannya yang unik dengan sebuah pulau kecil yang menyerupai Tanah Lot di Bali, terletak di tengah laut. Pemandangan tebing karang yang megah, ombak yang tenang, serta suasana yang alami membuat Pantai Amanda Ratu menjadi destinasi wisata yang menarik bagi wisatawan yang ingin menikmati pesona pantai yang masih alami.</item>
+        <item>Goa Buniayu terletak di Kecamatan Cisolok, Kabupaten Sukabumi, Jawa Barat. Goa ini merupakan salah satu destinasi wisata alam yang menawarkan keindahan alam yang menakjubkan dan kekayaan geologis. Goa Buniayu terkenal dengan formasi stalaktit dan stalagmit yang indah, serta memiliki sistem aliran air bawah tanah yang menarik untuk dijelajahi.</item>
+        <item>Curug Cikaso, juga dikenal sebagai Air Terjun Cikaso, terletak di Desa Cikaso, Kecamatan Cibitung, Kabupaten Sukabumi, Jawa Barat. Air terjun ini merupakan salah satu destinasi wisata alam yang terkenal di daerah Sukabumi, dikenal dengan keindahan alamnya yang memukau dan suasana yang menenangkan.</item>
+        <item>Curug Cimarinjung adalah salah satu air terjun yang terletak di Kecamatan Cisolok, Kabupaten Sukabumi, Jawa Barat. Dikenal karena keindahan alamnya, Curug Cimarinjung menjadi destinasi wisata yang menarik bagi para pecinta alam dan petualangan.</item>
+        <item>Curug Sawer adalah salah satu air terjun yang terletak di Kecamatan Cikidang, Kabupaten Sukabumi, Jawa Barat. Dikenal dengan keindahan alamnya yang menakjubkan, Curug Sawer merupakan destinasi wisata yang menarik bagi pengunjung yang mencari pengalaman alam yang autentik.</item>
+        <item>Geopark Ciletuh adalah kawasan geopark yang terletak di Kabupaten Sukabumi, Jawa Barat. Dikenal karena keanekaragaman geologi dan keindahan alamnya, Geopark Ciletuh menjadi salah satu destinasi wisata yang menarik untuk dikunjungi, baik oleh wisatawan lokal maupun mancanegara.</item>
+        <item>Palabuhan Ratu adalah sebuah kawasan pesisir yang terletak di Kabupaten Sukabumi, Jawa Barat. Terkenal dengan pantai-pantainya yang indah dan suasana yang tenang, Palabuhan Ratu menjadi salah satu destinasi wisata favorit di Jawa Barat, terutama bagi wisatawan yang mencari liburan yang dekat dengan alam.</item>
+        <item>Pondok Halimun adalah sebuah resort dan tempat wisata yang terletak di kawasan pegunungan Halimun, Sukabumi, Jawa Barat. Tempat ini dikenal karena keindahan alamnya yang memukau, udara yang sejuk, serta suasana yang tenang, menjadikannya pilihan ideal bagi pengunjung yang mencari tempat untuk bersantai dan melepas penat dari rutinitas sehari-hari.</item>
+        <item>Situ Gunung adalah sebuah danau yang terletak di kawasan Gunung Salak, Kecamatan Kadudampit, Kabupaten Sukabumi, Jawa Barat. Danau ini merupakan salah satu objek wisata alam yang menarik, menawarkan keindahan alam yang menakjubkan serta suasana yang sejuk dan tenang.</item>
+        <item>Ujung Genteng adalah sebuah kawasan pesisir yang terletak di Kecamatan Ciracap, Kabupaten Sukabumi, Jawa Barat. Terkenal dengan keindahan pantainya yang alami dan suasana yang tenang, Ujung Genteng menjadi salah satu destinasi wisata favorit bagi para pencinta alam dan pecinta pantai.</item>
+    </string-array>
+
+    <string-array name="data_rating">
+        <item>4.1</item>
+        <item>4.4</item>
+        <item>4.6</item>
+        <item>4.6</item>
+        <item>4.6</item>
+        <item>4.6</item>
+        <item>4.6</item>
+        <item>4.6</item>
+        <item>4.7</item>
+        <item>4.6</item>
+    </string-array>
+</resources>
